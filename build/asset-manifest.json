@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NCP-Project/static/css/main.1511d351.chunk.css",
+    "main.js": "/NCP-Project/static/js/main.ccdb20e3.chunk.js",
+    "main.js.map": "/NCP-Project/static/js/main.ccdb20e3.chunk.js.map",
+    "runtime-main.js": "/NCP-Project/static/js/runtime-main.46a69d94.js",
+    "runtime-main.js.map": "/NCP-Project/static/js/runtime-main.46a69d94.js.map",
+    "static/css/2.e9f81c34.chunk.css": "/NCP-Project/static/css/2.e9f81c34.chunk.css",
+    "static/js/2.616ffc1e.chunk.js": "/NCP-Project/static/js/2.616ffc1e.chunk.js",
+    "static/js/2.616ffc1e.chunk.js.map": "/NCP-Project/static/js/2.616ffc1e.chunk.js.map",
+    "index.html": "/NCP-Project/index.html",
+    "precache-manifest.956b1ec0118767d67016314ad14f66ec.js": "/NCP-Project/precache-manifest.956b1ec0118767d67016314ad14f66ec.js",
+    "service-worker.js": "/NCP-Project/service-worker.js",
+    "static/css/2.e9f81c34.chunk.css.map": "/NCP-Project/static/css/2.e9f81c34.chunk.css.map",
+    "static/css/main.1511d351.chunk.css.map": "/NCP-Project/static/css/main.1511d351.chunk.css.map",
+    "static/js/2.616ffc1e.chunk.js.LICENSE.txt": "/NCP-Project/static/js/2.616ffc1e.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/NCP-Project/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/NCP-Project/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a69d94.js",
+    "static/css/2.e9f81c34.chunk.css",
+    "static/js/2.616ffc1e.chunk.js",
+    "static/css/main.1511d351.chunk.css",
+    "static/js/main.ccdb20e3.chunk.js"
+  ]
+}

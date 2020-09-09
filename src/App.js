@@ -46,8 +46,8 @@ function App()
     return(
         <div className="App">
             <header className="aheader">
-                <h2>XXX Project Overview</h2>
-                <h4>Sample page</h4>
+                <h2>Project Overview</h2>
+                <h4>Water Conservation</h4>
             </header>
             <div className="box">
                 <div className="column1">
@@ -59,8 +59,7 @@ function App()
         {...timerProps}
         colors={[["#7E2E84"]]}
         duration={daysDuration}
-        initialRemainingTime={remainingTime}
-      >
+        initialRemainingTime={remainingTime}>
         {({ elapsedTime }) =>
           renderTime("days", getTimeDays(daysDuration - elapsedTime / 1000))
         }
@@ -125,10 +124,20 @@ function App()
                 </div>
                 <div className="column2" >
                   <div className="ic">
-                    <ul>
-                      <li><a href="">New Report</a></li>
-                      <li><a href="">Report Status</a></li>
-                    </ul>
+                    <div className="rowr">
+                    <div className="colr hoverable">
+                      <a href="">
+                      <div className="incol">Submit New Report</div>
+                      </a>
+                      </div>
+                    </div>
+                    <div className="rowr">
+                      <div className="colr hoverable">
+                      <a href="Submit.js">
+                      <div className="incol">View Reports</div>
+                      </a>
+                      </div>
+                    </div>
                   </div>
                 </div>
             </div>
